@@ -48,7 +48,7 @@ This project has been a rich learning experience, offering insights into the fol
 
 ## Acknowledgments
 
-Special thanks to Tony Sharma, Data Analytics Director, for providing this opportunity to showcase both technical and soft skills. This project has illuminated the strategic importance of data analytics in practical business contexts.
+Special thanks to CODEBASICS PLATFORM for providing this opportunity to showcase both technical and soft skills. This project has illuminated the strategic importance of data analytics in practical business contexts.
 
 
 
